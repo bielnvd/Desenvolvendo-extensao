@@ -14,7 +14,9 @@
     "js" : "content.js"
   }
   ],
-  "action" {
-   "default_popup" : "index.html"
+  "action" : {
+   "default_popup" : "index.html",
+   "default_icon" : "icon.png"
 }
+
 }
