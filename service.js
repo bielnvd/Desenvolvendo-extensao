@@ -11,3 +11,4 @@ if (request.acao === "ping") {
 
 return true; 
 });
+

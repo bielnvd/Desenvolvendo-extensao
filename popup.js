@@ -2,6 +2,6 @@ const act = document.querySelector('#btnAction'), stats = document.querySelector
 
 act.addEventListener('click', function() {
 
-stats.textContent = `Purple Rain in my limoneide!`
+stats.textContent = `Purple Rain in my limoneide! Só que NÃO!`
 
 })
